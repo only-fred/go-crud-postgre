@@ -26,5 +26,7 @@ Basic CRUD using Go and PostgreSQL
 
 
 ## Other resources:
-<a href=https://github.com/golang/go/wiki/SQLInterface>SQLInterface (Example)</a><br>
-<a href=https://github.com/golang/go/wiki/SQLDrivers>SQLDrivers</a>
+<ul>
+  <li><a href=https://github.com/golang/go/wiki/SQLInterface>SQLInterface (Example)</a></li>
+  <li><a href=https://github.com/golang/go/wiki/SQLDrivers>SQLDrivers</a></li>
+</ul>
